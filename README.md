@@ -1,6 +1,6 @@
-### Hi there
+### Hi there  🤘 
 
-###  I’m currently working on Text-to-speech WebApp.
+###  I’m currently working on Text-to-speech WebApp.👨‍💻
 ### I’m currently learning Python's Dark Secrets.
 ### I’m looking to collaborate on Machine Learning.
 ### How to reach me: 
